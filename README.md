@@ -11,7 +11,7 @@ The business has chosen to use Power BI for analytics in order to outperform riv
 
 I followed the Codebasics PowerBi Course while working on this project
 
-Here is my report link - (https://app.powerbi.com/view?r=eyJrIjoiMmEyMjcyYmUtNmViMi00NDlhLTlmNzQtODNjMjgzYTIxZDZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=19d9377c199ca334a5e1)
+Here is my report link - (https://app.powerbi.com/view?r=eyJrIjoiNmU0OTJlODMtNjllMC00YjhmLWIyMDgtZDlmZjE0NDEwNTExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Datasets:
 
