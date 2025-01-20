@@ -56,27 +56,27 @@ The dashboard is made up of six pages-->
 
 ### Home Page: A landing page with buttons to navigate to different pages.
 
-![home page](https://github.com/yc-harshan-reddy17/Business_Insights-360/blob/main/Home%20view.png)
+![home page](https://github.com/yc-harshan-reddy17/Business_Insights_360_transformed/blob/main/home.png)
 
 ### Finance Page: Focuses on improving financial planning, budgeting processes, and cost control. Includes Profit and Loss statements, Top and Bottom Products and Customers by Net Sales, and more.
 
-![finance page](https://github.com/yc-harshan-reddy17/Business_Insights-360/blob/main/Finance%20view.png)
+![finance page](https://github.com/yc-harshan-reddy17/Business_Insights_360_transformed/blob/main/finance%20view.png)
 
 ### Sales Page: Aims to increase sales revenue and market share. Features Customer performance by Net Sales, Gross Margin, Gross Margin %, and more.
 
-![sales page](https://github.com/yc-harshan-reddy17/Business_Insights-360/blob/main/Sales%20view.png)
+![sales page](https://github.com/yc-harshan-reddy17/Business_Insights_360_transformed/blob/main/sales%20view.png)
 
 ### Marketing Page: Aims to increase brand visibility and customer engagement. Provides Segment Performance by Gross Margin% and Net Profit%, and more.
 
-![marketing page](https://github.com/yc-harshan-reddy17/Business_Insights-360/blob/main/Marketing%20View.png)
+![marketing page](https://github.com/yc-harshan-reddy17/Business_Insights_360_transformed/blob/main/marketing%20view.png)
 
 ### Supply Chain Page: Aims to optimize inventory management and enhance supplier relationships for cost savings. Includes details about Forecast Accuracy, Net error, and more.
 
-![supply chain](https://github.com/yc-harshan-reddy17/Business_Insights-360/blob/main/Supply%20Chain%20view.png)
+![supply chain](https://github.com/yc-harshan-reddy17/Business_Insights_360_transformed/blob/main/supply%20chain%20view.png)
 
 ### Executive Page: Provides the top executives a summary of the organization's performance. Contains the following: Sub-region performance, Top 5 Customers and Products, Net Sales, Gross Margin%, Net Profit%, and Revenue Contribution by Channel.
 
-![executive page](https://github.com/yc-harshan-reddy17/Business_Insights-360/blob/main/Executive%20view.png)
+![executive page](https://github.com/yc-harshan-reddy17/Business_Insights_360_transformed/blob/main/Executive%20view.png)
 
 ## Skills Learned:
 
